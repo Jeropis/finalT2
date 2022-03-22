@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/xampp/htdocs/1DAM2021/finalT2/biblioteca.xsd">
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Winter time</titulo>
+    <autor>Gato dormido</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Summer vibes</titulo>
+    <autor fechaNacimiento="28/03/1936">Miki tomando el sol</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>Vilma's resting</titulo>
+    <autor fechaNacimiento="28/03/1936">Vilma en el sofá</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
